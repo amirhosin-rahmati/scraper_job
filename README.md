@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Scraper Pro
 
 A Python web scraping project that collects job listings from a website and saves them to a CSV file.
@@ -54,3 +55,6 @@ My first web scraping project with Python.
 ```bash
 python scraper.py
 ```
+=======
+# scraper_job
+>>>>>>> 9db63edd7d33bdc0997ff8b0f498c59e8d190fdf
